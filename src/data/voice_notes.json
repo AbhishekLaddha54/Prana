@@ -1,0 +1,7 @@
+[
+  { "id": "vn1", "phc": "D4-P1", "durationSec": 14, "transcript": "Namaste, main D4-P1 se bol raha hoon. Paracetamol ke sirf 50 strip bache hain, bukhar ke mareez badh rahe hain since somvaar." },
+  { "id": "vn2", "phc": "D4-P3", "durationSec": 11, "transcript": "D4 P3 PHC se, ORS ke 30 packet bache hain. Dast aur bukhar ke case bahut badh gaye hain, kal tak khatam ho jayega." },
+  { "id": "vn3", "phc": "D7-P2", "durationSec": 9, "transcript": "D7-P2 report: insulin ke 12 vial bache hain, fridge theek chal raha hai, mareez same hain." },
+  { "id": "vn4", "phc": "D2-P4", "durationSec": 8, "transcript": "D2-P4 se bol rahi hoon. Amoxicillin ke 200 capsule hain, footfall kam hai is hafte." },
+  { "id": "vn5", "phc": "D5-P1", "durationSec": 12, "transcript": "D5-P1 PHC: antimalarial ke 25 dose bache hain, malaria ke case badh rahe hain, supply jaldi chahiye." }
+]

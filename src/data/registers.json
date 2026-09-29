@@ -1,0 +1,148 @@
+[
+ {
+  "id": "register_1",
+  "phc": "D4-P2",
+  "title": "Shivgarh PHC-2  |  Stock Register  |  June",
+  "image": "/registers/register_1.png",
+  "rows": [
+   {
+    "medicine": "Paracetamol",
+    "opening": 180,
+    "received": 0,
+    "issued": 118,
+    "balance": 62,
+    "bbox": [
+     9.38,
+     20.67,
+     85.17,
+     9.07
+    ]
+   },
+   {
+    "medicine": "ORS",
+    "opening": 140,
+    "received": 0,
+    "issued": 104,
+    "balance": 36,
+    "bbox": [
+     9.03,
+     26.73,
+     85.17,
+     9.07
+    ]
+   },
+   {
+    "medicine": "Amoxicillin",
+    "opening": 260,
+    "received": 100,
+    "issued": 218,
+    "balance": 142,
+    "bbox": [
+     8.68,
+     32.79,
+     85.17,
+     9.07
+    ]
+   },
+   {
+    "medicine": "Insulin",
+    "opening": 20,
+    "received": 0,
+    "issued": 9,
+    "balance": 11,
+    "bbox": [
+     8.32,
+     38.85,
+     85.17,
+     9.07
+    ]
+   },
+   {
+    "medicine": "Iron+folic acid",
+    "opening": 400,
+    "received": 0,
+    "issued": 190,
+    "balance": 210,
+    "bbox": [
+     7.97,
+     44.91,
+     85.17,
+     9.07
+    ]
+   }
+  ]
+ },
+ {
+  "id": "register_2",
+  "phc": "D7-P3",
+  "title": "Jalgaon Khas PHC-3  |  Stock Register  |  June",
+  "image": "/registers/register_2.png",
+  "rows": [
+   {
+    "medicine": "Paracetamol",
+    "opening": 150,
+    "received": 90,
+    "issued": 160,
+    "balance": 80,
+    "bbox": [
+     6.66,
+     20.55,
+     84.32,
+     9.58
+    ]
+   },
+   {
+    "medicine": "ORS",
+    "opening": 100,
+    "received": 60,
+    "issued": 70,
+    "balance": 90,
+    "bbox": [
+     7.07,
+     26.56,
+     84.32,
+     9.58
+    ]
+   },
+   {
+    "medicine": "Antimalarial",
+    "opening": 60,
+    "received": 0,
+    "issued": 34,
+    "balance": 26,
+    "bbox": [
+     7.49,
+     32.58,
+     84.32,
+     9.58
+    ]
+   },
+   {
+    "medicine": "Azithromycin",
+    "opening": 90,
+    "received": 0,
+    "issued": 41,
+    "balance": 49,
+    "bbox": [
+     7.9,
+     38.6,
+     84.32,
+     9.58
+    ]
+   },
+   {
+    "medicine": "Oxytocin",
+    "opening": 12,
+    "received": 0,
+    "issued": 5,
+    "balance": 7,
+    "bbox": [
+     8.32,
+     44.62,
+     84.32,
+     9.58
+    ]
+   }
+  ]
+ }
+]
