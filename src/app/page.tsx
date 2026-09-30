@@ -60,7 +60,7 @@ export default function Home() {
       {/* hero */}
       <section className="grid items-center gap-10 lg:grid-cols-[1.1fr_1fr]">
         <div className="rise">
-          <span className="chip bg-coral-soft text-[#b3391f]">Made-up region “Demo Pradesh” · runs on your own Gemini key</span>
+          <span className="chip bg-coral-soft text-[#b3391f]">Made-up region “Demo Pradesh”. </span>
           <h1 className="mt-5 font-serif text-5xl font-bold leading-[1.05] tracking-tight md:text-7xl">
             Know which clinics will <span className="relative whitespace-nowrap text-moss">run out<svg className="absolute -bottom-2 left-0 w-full" viewBox="0 0 200 10" preserveAspectRatio="none"><path d="M2 7 C 50 0, 150 0, 198 6" stroke="#ff6b4a" strokeWidth="4" fill="none" strokeLinecap="round" /></svg></span> of medicine — before they do.
           </h1>
