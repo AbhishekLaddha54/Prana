@@ -156,3 +156,5 @@ scripts/         generate_registers.py (Pillow) · tune.ts · plan.ts · mesh.ts
 tests/           prana.test.ts
 docs/MODEL.md    every formula and assumption
 ```
+# Demo Video 
+[Click Here](https://www.youtube.com/watch?v=sDcv53OeBv8)
